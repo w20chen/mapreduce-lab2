@@ -1,9 +1,0 @@
-python
-python
-java
-java
-java
-hadoop
-vivado
-vivado
-string
