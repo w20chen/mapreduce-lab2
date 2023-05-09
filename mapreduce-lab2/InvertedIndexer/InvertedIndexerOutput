@@ -1,0 +1,8 @@
+google	1.50	input2.txt:2;input3.txt:1;
+hadoop	1.00	input1.txt:1;input2.txt:1;input3.txt:1;input4.txt:1;
+java	3.00	input1.txt:3;input2.txt:3;input3.txt:3;input4.txt:3;
+python	2.00	input1.txt:2;input2.txt:2;input3.txt:2;input4.txt:2;
+string	1.75	input1.txt:1;input2.txt:2;input3.txt:3;input4.txt:1;
+tensor	2.50	input3.txt:3;input4.txt:2;
+vivado	1.50	input1.txt:2;input3.txt:1;
+yandex	1.00	input4.txt:1;

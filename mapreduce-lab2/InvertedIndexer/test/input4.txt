@@ -1,0 +1,10 @@
+python
+python
+java
+java
+java
+hadoop
+yandex
+tensor
+tensor
+string
